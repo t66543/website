@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\PlaziWebSite.csproj": {}
+    "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\PlaziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\PlaziWebSite.csproj": {
+    "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\PlaziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\PlaziWebSite.csproj",
+        "projectUniqueName": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\PlaziWebSite.csproj",
         "projectName": "PlaziWebSite",
-        "projectPath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\PlaziWebSite.csproj",
+        "projectPath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\PlaziWebSite.csproj",
         "packagesPath": "C:\\Users\\sidfl\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\obj\\",
+        "outputPath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

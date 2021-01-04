@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPYN3d9TcWXTFzDWncFBstW54d2SvSJPc46WFgX1onMw0FFGRnHEzS9RWbBErOqlZ5OmcPRR8iL2rKMvHGQtiQ==",
+  "dgSpecHash": "kwI+YAwfRybeZ7ikmI9kfkea7msCTAh12zTsxuT3f7v5ZLjtGlBDGxTJOl5p9yV2hn2XnShnhYb3D8v/cVOjfg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\PlaziWebSite\\PlaziWebSite.csproj",
+  "projectFilePath": "C:\\Dev\\Platzi\\WebAppYLogginAppEnAzure\\website\\plaziwebsite\\PlaziWebSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
